@@ -54,8 +54,8 @@ where s represents a state, a an action, and q represents the value of the given
 - Cheetah aigym environment will be loaded and run, using the trained agent
 
 # TODOs
-[] retrain and test for all AI-gym continuous state space environments
-[] modify ```train.py``` and ```main.py``` to accept parameters to: change environemnts, hyperparameters etc.
+- [] retrain and test for all AI-gym continuous state space environments
+- [] modify ```train.py``` and ```main.py``` to accept parameters to: change environemnts, hyperparameters etc.
 
 # Credits:
 * Paper: Continuous Control with deep reinforcement learning by Lillicrap et al. [arXiv:1509.02971.](https://arxiv.org/abs/1509.02971) 
