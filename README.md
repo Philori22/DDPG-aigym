@@ -59,4 +59,3 @@ where s represents a state, a an action, and q represents the value of the given
 
 # Credits:
 * Paper: Continuous Control with deep reinforcement learning by Lillicrap et al. [arXiv:1509.02971.](https://arxiv.org/abs/1509.02971) 
-* Deep Reinforcment Learning 2.0 Course: [link](https://www.udemy.com/course/deep-reinforcement-learning/)
